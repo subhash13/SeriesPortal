@@ -1,0 +1,35 @@
+.addSeries {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  .addSeriesSection{
+    margin: 40px;
+    padding: 45px;
+    box-shadow:0 14px 28px rgb(0 0 0 / 25%), 0 10px 10px rgb(0 0 0 / 22%);
+  }
+  .addSeries label {
+    text-align: left;
+    display: block;
+  }
+  .addSeries h1 {
+    font-size: 30px;
+    color: black;
+    margin-bottom: 30px;
+  }
+  .addSeries input {
+    width: 100%;
+    padding: 6px 10px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+    display: block;
+  }
+  .addSeries button {
+    background: black;
+    color: #fff;
+    border: 0;
+    padding: 8px 25px;
+    border-radius: 8px;
+    cursor: pointer;
+  }

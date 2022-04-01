@@ -1,0 +1,71 @@
+{
+  "series": [
+    {
+      "title": "Family Man",
+      "genre": "supense thriller",
+      "cast": "Manoj Bajpayee",
+      "quote": "Kabhi kabhi jeethne keliye haarna padtha he",
+      "language": "hindi",
+      "id": 1
+    },
+    {
+      "title": "Money heist",
+      "genre": "heist",
+      "cast": "Berlin",
+      "quote": "bella ciao",
+      "language": "spanish",
+      "id": 2
+    },
+    {
+      "title": "Game of Thrones",
+      "genre": "historical drama",
+      "cast": "Emilia clarke",
+      "quote": "Winter is coming",
+      "language": "english",
+      "id": 3
+    },
+    {
+      "title": "Friends",
+      "genre": "sitcom",
+      "cast": "Jenifer anniston",
+      "quote": "We were on a break",
+      "language": "english",
+      "id": 4
+    },
+    {
+      "title": "Big Bang theory ",
+      "genre": "sitcom",
+      "cast": "Jim Parsons",
+      "quote": "Bazingaa...",
+      "language": "english",
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "title": "fbgjvhfdvdgdkg",
+      "genre": "e",
+      "cast": "e",
+      "quote": "tt",
+      "language": "gggg",
+      "id": 7
+    },
+    {
+      "title": "a",
+      "genre": "a",
+      "cast": "s",
+      "quote": "d",
+      "language": "f",
+      "id": 8
+    },
+    {
+      "title": "grdhdrh",
+      "genre": "htfnjfgnh",
+      "cast": "dhfghfgh",
+      "quote": "fdsvfdbf",
+      "language": "fbvdfbfbfb",
+      "id": 9
+    }
+  ]
+}
